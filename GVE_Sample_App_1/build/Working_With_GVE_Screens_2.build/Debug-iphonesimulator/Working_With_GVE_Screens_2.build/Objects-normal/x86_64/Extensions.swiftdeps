@@ -1,0 +1,548 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+provides-nominal:
+provides-member:
+- ["So6UIViewC", ""]
+- ["Sb", ""]
+- ["So6UIViewC", "addConstraintsWithFormat"]
+- ["So6UIViewC", "setGradientBackground"]
+- ["Sb", "toggle"]
+provides-dynamic-lookup:
+depends-top-level:
+- !private "!"
+- !private "Array"
+- "AssignmentPrecedence"
+- "Bool"
+- !private "BooleanLiteralType"
+- "CAGradientLayer"
+- !private "CGPoint"
+- !private "FloatLiteralType"
+- !private "NSLayoutConstraint"
+- "String"
+- !private "StringLiteralType"
+- "UIColor"
+- "UIView"
+- !private "UnicodeScalarType"
+depends-member:
+- !private ["Sa", "enumerated"]
+- !private ["s13ArrayProtocolP", "enumerated"]
+- !private ["SK", "enumerated"]
+- !private ["SK", "init"]
+- !private ["SK", "init"]
+- ["Sb", "toggle"]
+- !private ["So15CAGradientLayerC", "colors"]
+- !private ["So15CAGradientLayerC", "endPoint"]
+- !private ["So15CAGradientLayerC", "frame"]
+- !private ["So15CAGradientLayerC", "init"]
+- !private ["So15CAGradientLayerC", "locations"]
+- !private ["So15CAGradientLayerC", "startPoint"]
+- !private ["So7CALayerC", "colors"]
+- !private ["So7CALayerC", "endPoint"]
+- !private ["So7CALayerC", "frame"]
+- !private ["So7CALayerC", "init"]
+- !private ["So7CALayerC", "locations"]
+- !private ["So7CALayerC", "startPoint"]
+- !private ["So15CALayerDelegateP", "CAGradientLayer"]
+- !private ["So15CALayerDelegateP", "CGPoint"]
+- !private ["So15CALayerDelegateP", "NSLayoutConstraint"]
+- !private ["So15CALayerDelegateP", "String"]
+- !private ["So15CALayerDelegateP", "UIView"]
+- !private ["So15CALayerDelegateP", "addConstraints"]
+- !private ["So15CALayerDelegateP", "bounds"]
+- !private ["So15CALayerDelegateP", "translatesAutoresizingMaskIntoConstraints"]
+- !private ["So13CAMediaTimingP", "colors"]
+- !private ["So13CAMediaTimingP", "endPoint"]
+- !private ["So13CAMediaTimingP", "frame"]
+- !private ["So13CAMediaTimingP", "init"]
+- !private ["So13CAMediaTimingP", "locations"]
+- !private ["So13CAMediaTimingP", "startPoint"]
+- !private ["So7CGPointV", "init"]
+- !private ["s7CVarArgP", "CAGradientLayer"]
+- !private ["s7CVarArgP", "CGPoint"]
+- !private ["s7CVarArgP", "FormatOptions"]
+- !private ["s7CVarArgP", "NSLayoutConstraint"]
+- !private ["s7CVarArgP", "String"]
+- !private ["s7CVarArgP", "UIView"]
+- !private ["s7CVarArgP", "addConstraints"]
+- !private ["s7CVarArgP", "bounds"]
+- !private ["s7CVarArgP", "cgColor"]
+- !private ["s7CVarArgP", "colors"]
+- !private ["s7CVarArgP", "constraints"]
+- !private ["s7CVarArgP", "endPoint"]
+- !private ["s7CVarArgP", "enumerated"]
+- !private ["s7CVarArgP", "frame"]
+- !private ["s7CVarArgP", "init"]
+- !private ["s7CVarArgP", "init"]
+- !private ["s7CVarArgP", "locations"]
+- !private ["s7CVarArgP", "startPoint"]
+- !private ["s7CVarArgP", "subscript"]
+- !private ["s7CVarArgP", "translatesAutoresizingMaskIntoConstraints"]
+- !private ["Sl", "enumerated"]
+- !private ["Sl", "init"]
+- !private ["Sl", "init"]
+- !private ["Sl", "subscript"]
+- !private ["SL", "init"]
+- !private ["SL", "init"]
+- !private ["s28CustomDebugStringConvertibleP", "CAGradientLayer"]
+- !private ["s28CustomDebugStringConvertibleP", "CGPoint"]
+- !private ["s28CustomDebugStringConvertibleP", "FormatOptions"]
+- !private ["s28CustomDebugStringConvertibleP", "NSLayoutConstraint"]
+- !private ["s28CustomDebugStringConvertibleP", "String"]
+- !private ["s28CustomDebugStringConvertibleP", "UIView"]
+- !private ["s28CustomDebugStringConvertibleP", "addConstraints"]
+- !private ["s28CustomDebugStringConvertibleP", "bounds"]
+- !private ["s28CustomDebugStringConvertibleP", "cgColor"]
+- !private ["s28CustomDebugStringConvertibleP", "colors"]
+- !private ["s28CustomDebugStringConvertibleP", "constraints"]
+- !private ["s28CustomDebugStringConvertibleP", "endPoint"]
+- !private ["s28CustomDebugStringConvertibleP", "enumerated"]
+- !private ["s28CustomDebugStringConvertibleP", "frame"]
+- !private ["s28CustomDebugStringConvertibleP", "init"]
+- !private ["s28CustomDebugStringConvertibleP", "init"]
+- !private ["s28CustomDebugStringConvertibleP", "locations"]
+- !private ["s28CustomDebugStringConvertibleP", "startPoint"]
+- !private ["s28CustomDebugStringConvertibleP", "subscript"]
+- !private ["s28CustomDebugStringConvertibleP", "translatesAutoresizingMaskIntoConstraints"]
+- !private ["s29CustomPlaygroundQuickLookableP", "init"]
+- !private ["s29CustomPlaygroundQuickLookableP", "init"]
+- !private ["s17CustomReflectableP", "enumerated"]
+- !private ["s17CustomReflectableP", "init"]
+- !private ["s17CustomReflectableP", "init"]
+- !private ["s17CustomReflectableP", "subscript"]
+- !private ["s23CustomStringConvertibleP", "CAGradientLayer"]
+- !private ["s23CustomStringConvertibleP", "CGPoint"]
+- !private ["s23CustomStringConvertibleP", "FormatOptions"]
+- !private ["s23CustomStringConvertibleP", "NSLayoutConstraint"]
+- !private ["s23CustomStringConvertibleP", "String"]
+- !private ["s23CustomStringConvertibleP", "UIView"]
+- !private ["s23CustomStringConvertibleP", "addConstraints"]
+- !private ["s23CustomStringConvertibleP", "bounds"]
+- !private ["s23CustomStringConvertibleP", "cgColor"]
+- !private ["s23CustomStringConvertibleP", "colors"]
+- !private ["s23CustomStringConvertibleP", "constraints"]
+- !private ["s23CustomStringConvertibleP", "endPoint"]
+- !private ["s23CustomStringConvertibleP", "enumerated"]
+- !private ["s23CustomStringConvertibleP", "frame"]
+- !private ["s23CustomStringConvertibleP", "init"]
+- !private ["s23CustomStringConvertibleP", "init"]
+- !private ["s23CustomStringConvertibleP", "locations"]
+- !private ["s23CustomStringConvertibleP", "startPoint"]
+- !private ["s23CustomStringConvertibleP", "subscript"]
+- !private ["s23CustomStringConvertibleP", "translatesAutoresizingMaskIntoConstraints"]
+- !private ["Se", "enumerated"]
+- !private ["Se", "init"]
+- !private ["Se", "init"]
+- !private ["Se", "subscript"]
+- !private ["SD", "init"]
+- !private ["SD", "subscript"]
+- !private ["SE", "enumerated"]
+- !private ["SE", "init"]
+- !private ["SE", "init"]
+- !private ["SE", "subscript"]
+- !private ["SQ", "CAGradientLayer"]
+- !private ["SQ", "CGPoint"]
+- !private ["SQ", "FormatOptions"]
+- !private ["SQ", "NSLayoutConstraint"]
+- !private ["SQ", "String"]
+- !private ["SQ", "UIView"]
+- !private ["SQ", "addConstraints"]
+- !private ["SQ", "bounds"]
+- !private ["SQ", "cgColor"]
+- !private ["SQ", "colors"]
+- !private ["SQ", "constraints"]
+- !private ["SQ", "endPoint"]
+- !private ["SQ", "enumerated"]
+- !private ["SQ", "frame"]
+- !private ["SQ", "init"]
+- !private ["SQ", "init"]
+- !private ["SQ", "locations"]
+- !private ["SQ", "startPoint"]
+- !private ["SQ", "subscript"]
+- !private ["SQ", "translatesAutoresizingMaskIntoConstraints"]
+- !private ["s25ExpressibleByArrayLiteralP", "enumerated"]
+- !private ["s25ExpressibleByArrayLiteralP", "init"]
+- !private ["s30ExpressibleByDictionaryLiteralP", "init"]
+- !private ["s30ExpressibleByDictionaryLiteralP", "subscript"]
+- !private ["s43ExpressibleByExtendedGraphemeClusterLiteralP", "init"]
+- !private ["s43ExpressibleByExtendedGraphemeClusterLiteralP", "init"]
+- !private ["s26ExpressibleByStringLiteralP", "init"]
+- !private ["s26ExpressibleByStringLiteralP", "init"]
+- !private ["s33ExpressibleByUnicodeScalarLiteralP", "init"]
+- !private ["s33ExpressibleByUnicodeScalarLiteralP", "init"]
+- !private ["So21NSLayoutFormatOptionsV", "init"]
+- !private ["SH", "CAGradientLayer"]
+- !private ["SH", "CGPoint"]
+- !private ["SH", "FormatOptions"]
+- !private ["SH", "NSLayoutConstraint"]
+- !private ["SH", "String"]
+- !private ["SH", "UIView"]
+- !private ["SH", "addConstraints"]
+- !private ["SH", "bounds"]
+- !private ["SH", "cgColor"]
+- !private ["SH", "colors"]
+- !private ["SH", "constraints"]
+- !private ["SH", "endPoint"]
+- !private ["SH", "enumerated"]
+- !private ["SH", "frame"]
+- !private ["SH", "init"]
+- !private ["SH", "init"]
+- !private ["SH", "locations"]
+- !private ["SH", "startPoint"]
+- !private ["SH", "subscript"]
+- !private ["SH", "translatesAutoresizingMaskIntoConstraints"]
+- !private ["s25LosslessStringConvertibleP", "init"]
+- !private ["s25LosslessStringConvertibleP", "init"]
+- !private ["s10MirrorPathP", "init"]
+- !private ["s10MirrorPathP", "init"]
+- !private ["SM", "enumerated"]
+- !private ["So8NSCodingP", "CAGradientLayer"]
+- !private ["So8NSCodingP", "CGPoint"]
+- !private ["So8NSCodingP", "NSLayoutConstraint"]
+- !private ["So8NSCodingP", "String"]
+- !private ["So8NSCodingP", "UIView"]
+- !private ["So8NSCodingP", "addConstraints"]
+- !private ["So8NSCodingP", "bounds"]
+- !private ["So8NSCodingP", "cgColor"]
+- !private ["So8NSCodingP", "colors"]
+- !private ["So8NSCodingP", "endPoint"]
+- !private ["So8NSCodingP", "frame"]
+- !private ["So8NSCodingP", "init"]
+- !private ["So8NSCodingP", "locations"]
+- !private ["So8NSCodingP", "startPoint"]
+- !private ["So8NSCodingP", "translatesAutoresizingMaskIntoConstraints"]
+- !private ["So9NSCopyingP", "cgColor"]
+- !private ["So21NSItemProviderReadingP", "cgColor"]
+- !private ["So21NSItemProviderWritingP", "cgColor"]
+- !private ["So18NSLayoutConstraintC", "FormatOptions"]
+- !private ["So18NSLayoutConstraintC", "constraints"]
+- ["So8NSObjectC", "CAGradientLayer"]
+- !private ["So8NSObjectC", "CGPoint"]
+- !private ["So8NSObjectC", "FormatOptions"]
+- !private ["So8NSObjectC", "NSLayoutConstraint"]
+- ["So8NSObjectC", "String"]
+- ["So8NSObjectC", "UIColor"]
+- ["So8NSObjectC", "UIView"]
+- !private ["So8NSObjectC", "addConstraints"]
+- ["So8NSObjectC", "addConstraintsWithFormat"]
+- !private ["So8NSObjectC", "bounds"]
+- !private ["So8NSObjectC", "cgColor"]
+- !private ["So8NSObjectC", "colors"]
+- !private ["So8NSObjectC", "constraints"]
+- !private ["So8NSObjectC", "endPoint"]
+- !private ["So8NSObjectC", "frame"]
+- !private ["So8NSObjectC", "init"]
+- !private ["So8NSObjectC", "locations"]
+- ["So8NSObjectC", "setGradientBackground"]
+- !private ["So8NSObjectC", "startPoint"]
+- !private ["So8NSObjectC", "translatesAutoresizingMaskIntoConstraints"]
+- !private ["So8NSObjectP", "CAGradientLayer"]
+- !private ["So8NSObjectP", "CGPoint"]
+- !private ["So8NSObjectP", "FormatOptions"]
+- !private ["So8NSObjectP", "NSLayoutConstraint"]
+- !private ["So8NSObjectP", "String"]
+- !private ["So8NSObjectP", "UIView"]
+- !private ["So8NSObjectP", "addConstraints"]
+- !private ["So8NSObjectP", "bounds"]
+- !private ["So8NSObjectP", "cgColor"]
+- !private ["So8NSObjectP", "colors"]
+- !private ["So8NSObjectP", "constraints"]
+- !private ["So8NSObjectP", "endPoint"]
+- !private ["So8NSObjectP", "frame"]
+- !private ["So8NSObjectP", "init"]
+- !private ["So8NSObjectP", "locations"]
+- !private ["So8NSObjectP", "startPoint"]
+- !private ["So8NSObjectP", "translatesAutoresizingMaskIntoConstraints"]
+- !private ["So14NSSecureCodingP", "cgColor"]
+- !private ["So14NSSecureCodingP", "colors"]
+- !private ["So14NSSecureCodingP", "endPoint"]
+- !private ["So14NSSecureCodingP", "frame"]
+- !private ["So14NSSecureCodingP", "init"]
+- !private ["So14NSSecureCodingP", "locations"]
+- !private ["So14NSSecureCodingP", "startPoint"]
+- !private ["s9OptionSetP", "init"]
+- !private ["Sk", "enumerated"]
+- !private ["Sm", "enumerated"]
+- !private ["Sm", "init"]
+- !private ["Sm", "init"]
+- !private ["SY", "init"]
+- !private ["ST", "enumerated"]
+- !private ["ST", "init"]
+- !private ["ST", "init"]
+- !private ["ST", "subscript"]
+- !private ["s10SetAlgebraP", "init"]
+- !private ["SS", "init"]
+- !private ["SS", "init"]
+- !private ["Sy", "init"]
+- !private ["Sy", "init"]
+- !private ["s16TextOutputStreamP", "init"]
+- !private ["s16TextOutputStreamP", "init"]
+- !private ["s20TextOutputStreamableP", "init"]
+- !private ["s20TextOutputStreamableP", "init"]
+- !private ["So29UIAccessibilityIdentificationP", "CAGradientLayer"]
+- !private ["So29UIAccessibilityIdentificationP", "CGPoint"]
+- !private ["So29UIAccessibilityIdentificationP", "NSLayoutConstraint"]
+- !private ["So29UIAccessibilityIdentificationP", "String"]
+- !private ["So29UIAccessibilityIdentificationP", "UIView"]
+- !private ["So29UIAccessibilityIdentificationP", "addConstraints"]
+- !private ["So29UIAccessibilityIdentificationP", "bounds"]
+- !private ["So29UIAccessibilityIdentificationP", "translatesAutoresizingMaskIntoConstraints"]
+- !private ["So12UIAppearanceP", "CAGradientLayer"]
+- !private ["So12UIAppearanceP", "CGPoint"]
+- !private ["So12UIAppearanceP", "NSLayoutConstraint"]
+- !private ["So12UIAppearanceP", "String"]
+- !private ["So12UIAppearanceP", "UIView"]
+- !private ["So12UIAppearanceP", "addConstraints"]
+- !private ["So12UIAppearanceP", "bounds"]
+- !private ["So12UIAppearanceP", "translatesAutoresizingMaskIntoConstraints"]
+- !private ["So21UIAppearanceContainerP", "CAGradientLayer"]
+- !private ["So21UIAppearanceContainerP", "CGPoint"]
+- !private ["So21UIAppearanceContainerP", "NSLayoutConstraint"]
+- !private ["So21UIAppearanceContainerP", "String"]
+- !private ["So21UIAppearanceContainerP", "UIView"]
+- !private ["So21UIAppearanceContainerP", "addConstraints"]
+- !private ["So21UIAppearanceContainerP", "bounds"]
+- !private ["So21UIAppearanceContainerP", "translatesAutoresizingMaskIntoConstraints"]
+- !private ["So7UIColorC", "cgColor"]
+- !private ["So17UICoordinateSpaceP", "CAGradientLayer"]
+- !private ["So17UICoordinateSpaceP", "CGPoint"]
+- !private ["So17UICoordinateSpaceP", "NSLayoutConstraint"]
+- !private ["So17UICoordinateSpaceP", "String"]
+- !private ["So17UICoordinateSpaceP", "UIView"]
+- !private ["So17UICoordinateSpaceP", "addConstraints"]
+- !private ["So17UICoordinateSpaceP", "bounds"]
+- !private ["So17UICoordinateSpaceP", "translatesAutoresizingMaskIntoConstraints"]
+- !private ["So13UIDynamicItemP", "CAGradientLayer"]
+- !private ["So13UIDynamicItemP", "CGPoint"]
+- !private ["So13UIDynamicItemP", "NSLayoutConstraint"]
+- !private ["So13UIDynamicItemP", "String"]
+- !private ["So13UIDynamicItemP", "UIView"]
+- !private ["So13UIDynamicItemP", "addConstraints"]
+- !private ["So13UIDynamicItemP", "bounds"]
+- !private ["So13UIDynamicItemP", "translatesAutoresizingMaskIntoConstraints"]
+- !private ["So18UIFocusEnvironmentP", "CAGradientLayer"]
+- !private ["So18UIFocusEnvironmentP", "CGPoint"]
+- !private ["So18UIFocusEnvironmentP", "NSLayoutConstraint"]
+- !private ["So18UIFocusEnvironmentP", "String"]
+- !private ["So18UIFocusEnvironmentP", "UIView"]
+- !private ["So18UIFocusEnvironmentP", "addConstraints"]
+- !private ["So18UIFocusEnvironmentP", "bounds"]
+- !private ["So18UIFocusEnvironmentP", "translatesAutoresizingMaskIntoConstraints"]
+- !private ["So11UIFocusItemP", "CAGradientLayer"]
+- !private ["So11UIFocusItemP", "CGPoint"]
+- !private ["So11UIFocusItemP", "NSLayoutConstraint"]
+- !private ["So11UIFocusItemP", "String"]
+- !private ["So11UIFocusItemP", "UIView"]
+- !private ["So11UIFocusItemP", "addConstraints"]
+- !private ["So11UIFocusItemP", "bounds"]
+- !private ["So11UIFocusItemP", "translatesAutoresizingMaskIntoConstraints"]
+- !private ["So20UIFocusItemContainerP", "CAGradientLayer"]
+- !private ["So20UIFocusItemContainerP", "CGPoint"]
+- !private ["So20UIFocusItemContainerP", "NSLayoutConstraint"]
+- !private ["So20UIFocusItemContainerP", "String"]
+- !private ["So20UIFocusItemContainerP", "UIView"]
+- !private ["So20UIFocusItemContainerP", "addConstraints"]
+- !private ["So20UIFocusItemContainerP", "bounds"]
+- !private ["So20UIFocusItemContainerP", "translatesAutoresizingMaskIntoConstraints"]
+- !private ["So30UIPasteConfigurationSupportingP", "CAGradientLayer"]
+- !private ["So30UIPasteConfigurationSupportingP", "CGPoint"]
+- !private ["So30UIPasteConfigurationSupportingP", "NSLayoutConstraint"]
+- !private ["So30UIPasteConfigurationSupportingP", "String"]
+- !private ["So30UIPasteConfigurationSupportingP", "UIView"]
+- !private ["So30UIPasteConfigurationSupportingP", "addConstraints"]
+- !private ["So30UIPasteConfigurationSupportingP", "bounds"]
+- !private ["So30UIPasteConfigurationSupportingP", "translatesAutoresizingMaskIntoConstraints"]
+- ["So11UIResponderC", "CAGradientLayer"]
+- !private ["So11UIResponderC", "CGPoint"]
+- !private ["So11UIResponderC", "NSLayoutConstraint"]
+- ["So11UIResponderC", "String"]
+- ["So11UIResponderC", "UIColor"]
+- ["So11UIResponderC", "UIView"]
+- !private ["So11UIResponderC", "addConstraints"]
+- ["So11UIResponderC", "addConstraintsWithFormat"]
+- !private ["So11UIResponderC", "bounds"]
+- ["So11UIResponderC", "setGradientBackground"]
+- !private ["So11UIResponderC", "translatesAutoresizingMaskIntoConstraints"]
+- !private ["So30UIResponderStandardEditActionsP", "CAGradientLayer"]
+- !private ["So30UIResponderStandardEditActionsP", "CGPoint"]
+- !private ["So30UIResponderStandardEditActionsP", "NSLayoutConstraint"]
+- !private ["So30UIResponderStandardEditActionsP", "String"]
+- !private ["So30UIResponderStandardEditActionsP", "UIView"]
+- !private ["So30UIResponderStandardEditActionsP", "addConstraints"]
+- !private ["So30UIResponderStandardEditActionsP", "bounds"]
+- !private ["So30UIResponderStandardEditActionsP", "translatesAutoresizingMaskIntoConstraints"]
+- !private ["So18UITraitEnvironmentP", "CAGradientLayer"]
+- !private ["So18UITraitEnvironmentP", "CGPoint"]
+- !private ["So18UITraitEnvironmentP", "NSLayoutConstraint"]
+- !private ["So18UITraitEnvironmentP", "String"]
+- !private ["So18UITraitEnvironmentP", "UIView"]
+- !private ["So18UITraitEnvironmentP", "addConstraints"]
+- !private ["So18UITraitEnvironmentP", "bounds"]
+- !private ["So18UITraitEnvironmentP", "translatesAutoresizingMaskIntoConstraints"]
+- !private ["So23UIUserActivityRestoringP", "CAGradientLayer"]
+- !private ["So23UIUserActivityRestoringP", "CGPoint"]
+- !private ["So23UIUserActivityRestoringP", "NSLayoutConstraint"]
+- !private ["So23UIUserActivityRestoringP", "String"]
+- !private ["So23UIUserActivityRestoringP", "UIView"]
+- !private ["So23UIUserActivityRestoringP", "addConstraints"]
+- !private ["So23UIUserActivityRestoringP", "bounds"]
+- !private ["So23UIUserActivityRestoringP", "translatesAutoresizingMaskIntoConstraints"]
+- ["So6UIViewC", "CAGradientLayer"]
+- !private ["So6UIViewC", "CGPoint"]
+- !private ["So6UIViewC", "NSLayoutConstraint"]
+- ["So6UIViewC", "String"]
+- ["So6UIViewC", "UIColor"]
+- ["So6UIViewC", "UIView"]
+- !private ["So6UIViewC", "addConstraints"]
+- ["So6UIViewC", "addConstraintsWithFormat"]
+- !private ["So6UIViewC", "bounds"]
+- ["So6UIViewC", "setGradientBackground"]
+- !private ["So6UIViewC", "translatesAutoresizingMaskIntoConstraints"]
+- !private ["s37_DefaultCustomPlaygroundQuickLookableP", "CAGradientLayer"]
+- !private ["s37_DefaultCustomPlaygroundQuickLookableP", "CGPoint"]
+- !private ["s37_DefaultCustomPlaygroundQuickLookableP", "NSLayoutConstraint"]
+- !private ["s37_DefaultCustomPlaygroundQuickLookableP", "String"]
+- !private ["s37_DefaultCustomPlaygroundQuickLookableP", "UIView"]
+- !private ["s37_DefaultCustomPlaygroundQuickLookableP", "addConstraints"]
+- !private ["s37_DefaultCustomPlaygroundQuickLookableP", "bounds"]
+- !private ["s37_DefaultCustomPlaygroundQuickLookableP", "translatesAutoresizingMaskIntoConstraints"]
+- !private ["s24_DestructorSafeContainerP", "enumerated"]
+- !private ["s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP", "init"]
+- !private ["s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP", "init"]
+- !private ["s34_ExpressibleByBuiltinStringLiteralP", "init"]
+- !private ["s34_ExpressibleByBuiltinStringLiteralP", "init"]
+- !private ["s39_ExpressibleByBuiltinUTF16StringLiteralP", "init"]
+- !private ["s39_ExpressibleByBuiltinUTF16StringLiteralP", "init"]
+- !private ["s41_ExpressibleByBuiltinUnicodeScalarLiteralP", "init"]
+- !private ["s41_ExpressibleByBuiltinUnicodeScalarLiteralP", "init"]
+- !private ["s26_ExpressibleByColorLiteralP", "cgColor"]
+- !private ["s33_ExpressibleByStringInterpolationP", "init"]
+- !private ["s33_ExpressibleByStringInterpolationP", "init"]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "enumerated"]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "init"]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "subscript"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "CAGradientLayer"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "CGPoint"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "FormatOptions"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "NSLayoutConstraint"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "String"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "UIView"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "addConstraints"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "bounds"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "cgColor"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "colors"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "constraints"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "endPoint"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "frame"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "init"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "locations"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "startPoint"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "translatesAutoresizingMaskIntoConstraints"]
+- !private ["s21_ObjectiveCBridgeableP", "enumerated"]
+- !private ["s21_ObjectiveCBridgeableP", "init"]
+- !private ["s21_ObjectiveCBridgeableP", "init"]
+- !private ["s21_ObjectiveCBridgeableP", "subscript"]
+- !private ["s16_SwiftStringViewP", "init"]
+- !private ["s16_SwiftStringViewP", "init"]
+depends-nominal:
+- !private "Sa"
+- !private "s13ArrayProtocolP"
+- !private "SK"
+- "Sb"
+- !private "So15CAGradientLayerC"
+- !private "So7CALayerC"
+- !private "So15CALayerDelegateP"
+- !private "So13CAMediaTimingP"
+- !private "So7CGPointV"
+- !private "s7CVarArgP"
+- !private "Sl"
+- !private "SL"
+- !private "s28CustomDebugStringConvertibleP"
+- !private "s29CustomPlaygroundQuickLookableP"
+- !private "s17CustomReflectableP"
+- !private "s23CustomStringConvertibleP"
+- !private "Se"
+- !private "SD"
+- !private "SE"
+- !private "SQ"
+- !private "s25ExpressibleByArrayLiteralP"
+- !private "s30ExpressibleByDictionaryLiteralP"
+- !private "s43ExpressibleByExtendedGraphemeClusterLiteralP"
+- !private "s26ExpressibleByStringLiteralP"
+- !private "s33ExpressibleByUnicodeScalarLiteralP"
+- !private "So21NSLayoutFormatOptionsV"
+- !private "SH"
+- !private "s25LosslessStringConvertibleP"
+- !private "s10MirrorPathP"
+- !private "SM"
+- !private "So8NSCodingP"
+- !private "So9NSCopyingP"
+- !private "So21NSItemProviderReadingP"
+- !private "So21NSItemProviderWritingP"
+- !private "So18NSLayoutConstraintC"
+- "So8NSObjectC"
+- !private "So8NSObjectP"
+- !private "So14NSSecureCodingP"
+- !private "s9OptionSetP"
+- !private "Sk"
+- !private "Sm"
+- !private "SY"
+- !private "ST"
+- !private "s10SetAlgebraP"
+- !private "SS"
+- !private "Sy"
+- !private "s16TextOutputStreamP"
+- !private "s20TextOutputStreamableP"
+- !private "So29UIAccessibilityIdentificationP"
+- !private "So12UIAppearanceP"
+- !private "So21UIAppearanceContainerP"
+- !private "So7UIColorC"
+- !private "So17UICoordinateSpaceP"
+- !private "So13UIDynamicItemP"
+- !private "So18UIFocusEnvironmentP"
+- !private "So11UIFocusItemP"
+- !private "So20UIFocusItemContainerP"
+- !private "So30UIPasteConfigurationSupportingP"
+- "So11UIResponderC"
+- !private "So30UIResponderStandardEditActionsP"
+- !private "So18UITraitEnvironmentP"
+- !private "So23UIUserActivityRestoringP"
+- "So6UIViewC"
+- !private "s37_DefaultCustomPlaygroundQuickLookableP"
+- !private "s24_DestructorSafeContainerP"
+- !private "s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP"
+- !private "s34_ExpressibleByBuiltinStringLiteralP"
+- !private "s39_ExpressibleByBuiltinUTF16StringLiteralP"
+- !private "s41_ExpressibleByBuiltinUnicodeScalarLiteralP"
+- !private "s26_ExpressibleByColorLiteralP"
+- !private "s33_ExpressibleByStringInterpolationP"
+- !private "s35_HasCustomAnyHashableRepresentationP"
+- !private "10Foundation27_KeyValueCodingAndObservingP"
+- !private "s21_ObjectiveCBridgeableP"
+- !private "s16_SwiftStringViewP"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Dispatch.apinotesc"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/ObjectiveC.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreImage.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/QuartzCore.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Dispatch.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Metal.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Darwin.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Foundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreFoundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreGraphics.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Swift.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/UIKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/SwiftOnoneSupport.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/usr/include/objc/ObjectiveC.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/OpenGLES.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/System/Library/Frameworks/CoreImage.framework/Headers/CoreImage.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/QuartzCore.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/System/Library/Frameworks/Metal.framework/Headers/Metal.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/usr/include/Darwin.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/System/Library/Frameworks/CoreText.framework/Headers/CoreText.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/System/Library/Frameworks/Security.framework/Headers/Security.apinotes"
+interface-hash: "8c9a768ea7c7cedba51522178852902f"

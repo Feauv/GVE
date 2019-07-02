@@ -1,0 +1,22 @@
+version: "Apple Swift version 4.2 (swiftlang-1000.11.37.1 clang-1000.11.45.1)"
+options: "225260ba2e3797fdebde89b1d4dcfc12"
+build_time: [1540754913, 387374000]
+inputs:
+  "/Users/GroverDover/True_Industries/GVE/iOSDev/GVE_Sample_App_1/Working_With_GVE_Screens_2/View/RoundUpCell.swift": [1539290296, 0]
+  "/Users/GroverDover/True_Industries/GVE/iOSDev/GVE_Sample_App_1/Working_With_GVE_Screens_2/View/RoundUpFeedCell.swift": [1540302318, 0]
+  "/Users/GroverDover/True_Industries/GVE/iOSDev/GVE_Sample_App_1/Working_With_GVE_Screens_2/Contoller/DesignTestsController.swift": [1537732531, 0]
+  "/Users/GroverDover/True_Industries/GVE/iOSDev/GVE_Sample_App_1/Working_With_GVE_Screens_2/View/ProfileBar.swift": [1540403420, 0]
+  "/Users/GroverDover/True_Industries/GVE/iOSDev/GVE_Sample_App_1/Working_With_GVE_Screens_2/View/RecurringCell.swift": [1539829914, 0]
+  "/Users/GroverDover/True_Industries/GVE/iOSDev/GVE_Sample_App_1/Working_With_GVE_Screens_2/Contoller/FinancialController.swift": [1540304023, 0]
+  "/Users/GroverDover/True_Industries/GVE/iOSDev/GVE_Sample_App_1/Working_With_GVE_Screens_2/View/AccountDropDownView.swift": [1539386586, 0]
+  "/Users/GroverDover/True_Industries/GVE/iOSDev/GVE_Sample_App_1/Working_With_GVE_Screens_2/View/OneTimeCell.swift": [1539830242, 0]
+  "/Users/GroverDover/True_Industries/GVE/iOSDev/GVE_Sample_App_1/Working_With_GVE_Screens_2/View/HistoryFeedCell.swift": [1539721777, 0]
+  "/Users/GroverDover/True_Industries/GVE/iOSDev/GVE_Sample_App_1/Working_With_GVE_Screens_2/View/OneTimeSearchView.swift": [1539829519, 0]
+  "/Users/GroverDover/True_Industries/GVE/iOSDev/GVE_Sample_App_1/Working_With_GVE_Screens_2/View/HistoryCell.swift": [1539829914, 0]
+  "/Users/GroverDover/True_Industries/GVE/iOSDev/GVE_Sample_App_1/Working_With_GVE_Screens_2/View/FinancialBar.swift": [1540301272, 0]
+  "/Users/GroverDover/True_Industries/GVE/iOSDev/GVE_Sample_App_1/Working_With_GVE_Screens_2/View/AccountTotalView.swift": [1539871517, 0]
+  "/Users/GroverDover/True_Industries/GVE/iOSDev/GVE_Sample_App_1/Working_With_GVE_Screens_2/AppDelegate.swift": [1540303104, 0]
+  "/Users/GroverDover/True_Industries/GVE/iOSDev/GVE_Sample_App_1/Working_With_GVE_Screens_2/Contoller/HomeController.swift": [1540303601, 0]
+  "/Users/GroverDover/True_Industries/GVE/iOSDev/GVE_Sample_App_1/Working_With_GVE_Screens_2/Model/RoundUp.swift": [1537779624, 0]
+  "/Users/GroverDover/True_Industries/GVE/iOSDev/GVE_Sample_App_1/Working_With_GVE_Screens_2/View/BaseCell.swift": [1539290296, 0]
+  "/Users/GroverDover/True_Industries/GVE/iOSDev/GVE_Sample_App_1/Working_With_GVE_Screens_2/Helpers/Extensions.swift": [1538984942, 0]
